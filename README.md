@@ -6,10 +6,10 @@ const ME = {
     GraphicDesign: true
   },
   Skills: {
-    git: { level: "Beginner", status: "Learning" },
-    react: { level: "Beginner", status: "Learning" },
-    javascript: { level: "Beginner", status: "Learning" },
-    photoshop: { level: "Intermediate", status: "Previously Certified" },
-    premierePro: { level: "Intermediate", status: "Previously Certified" }
+    ReactJS: { level: "Beginner", status: "Learning" },
+    Javascript: { level: "Beginner", status: "Learning" },
+    TailwindCSS: { level: "Beginner", status: "Learning" },
+    PremierePro: { level: "Intermediate", status: "Previously Certified" },
+    Photoshop: { level: "Intermediate", status: "Previously Certified" }
   }
 };
