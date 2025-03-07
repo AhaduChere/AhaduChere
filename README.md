@@ -30,7 +30,7 @@ const ME = {
     }
   },
   Projects: {
-    QuickInit: {
+    Quickinit: {
       status: "Ongoing",
       description: "CLI tool for structuring my coding projects"
     }
