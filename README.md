@@ -3,7 +3,8 @@ const ME = {
   name: "Ahadu Chere",
   interests: ["WebDevelopment", "GraphicDesign"],
   projects: {
-    Quickinit: "CLI Setup Tool"
+    Quickinit: "CLI Setup Tool",
+    Odyssey: "Calendar WebApp"
   }
 };
 
