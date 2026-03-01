@@ -1,12 +1,12 @@
 ```javascript
-const ME = {
+const My = {
   name: "Ahadu Chere",
-  interests: ["WebDevelopment", "GraphicDesign"],
   projects: {
-    Quickinit: "CLI Setup Tool",
-    Odyssey: "Calendar WebApp"
+    Odyssey: "Calendar WebApp",
+    Quickinit: "CLI Setup Tool"
   }
 };
 
-console.dir(ME, { depth: null });
-
+console.log(My.name)
+console.log(My.projects)
+```
