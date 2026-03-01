@@ -17,13 +17,13 @@ const My = {
     }
   },
  info() {
-    console.log(`My name is ${this.name} and I'm ${this.age}`);
-    console.log(`I code in ${this.tools.editor} on ${this.tools.os}`);
     let projectList = "My Projects are: \n";
     for (const project in this.projects) {
       const { description, framework } = this.projects[project];
       projectList += `${project}: A ${description} built with ${framework}\n`;
     }
+    console.log(`My name is ${this.name} and I'm ${this.age}`);
+    console.log(`I code in ${this.tools.editor} on ${this.tools.os}`);
     console.log(projectList);
   }
 };
