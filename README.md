@@ -3,7 +3,7 @@ const My = {
   name: "Ahadu Chere",
   projects: {
     Odyssey: "Calendar WebApp",
-    Quickinit: "CLI Setup Tool"
+    Ember: "Local File Music Player"
   }
 };
 
