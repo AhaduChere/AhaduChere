@@ -11,11 +11,11 @@ const My = {
   projects: {
     Odyssey: {
       description: "Calendar WebApp",
-      framework: "NuxtJS"
+      built_with: "NuxtJS"
     },
     Ember: {
       description: "Local File Music Player",
-      framework: "Electron"
+      built_with: "Electron"
     }
   }
 };
