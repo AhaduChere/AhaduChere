@@ -16,6 +16,10 @@ const My = {
     Ember: {
       description: "Local File Music Player",
       built_with: "Electron"
+    },
+    Flux: {
+      description: "Command-Line API Client",
+      built_with: "GO"
     }
   }
 };
